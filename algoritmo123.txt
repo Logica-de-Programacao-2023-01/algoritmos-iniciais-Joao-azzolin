@@ -1,0 +1,6 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+1:Leia F (fahrenheit)
+2:Leia C (celsius)
+3:Fahrenheit para Celsius: F = C x 1.8 + 32
+4:Escreva Fahrenheit
