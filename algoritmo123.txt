@@ -2,5 +2,6 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 
 1:Leia F (fahrenheit)
 2:Leia C (celsius)
-3:Fahrenheit para Celsius: F = C x 1.8 + 32
+3:Conversão de qualquer nùmero Fahrenheit para Celsius: F = C x 1.8 + 32
 4:Escreva Fahrenheit
+5: fim
