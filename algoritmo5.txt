@@ -1,0 +1,5 @@
+função busca linear(lista,elemento):
+para a de 0 até o tamanho da lista -1:
+se lista(a)=elemento
+retornar a 
+retornar -1
