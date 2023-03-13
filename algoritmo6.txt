@@ -1,0 +1,11 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+leia x para base da potenciação (número a ser multiplicado)
+leia y para expoente da potenciação (numero de vezes que x será multiplicado
+se y=0
+a potencição será = 1
+se y=1 
+a potenciação será = x
+se y<0
+a potenciação será = 1/(x^y)
+senão
+o resultado da potenciação será = x^y
