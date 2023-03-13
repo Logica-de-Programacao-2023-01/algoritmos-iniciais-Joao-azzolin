@@ -7,4 +7,4 @@ se n=0 ou n=1
 escreva fatorial=1
 para n>1
 escreva
-fatorial = todos os números a tal que a>1 e a<n que 1 * n
+fatorial = todos os números a tal que a≥1 e a<n que 1 * n
