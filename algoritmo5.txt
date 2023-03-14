@@ -1,5 +1,7 @@
-função busca linear(lista,elemento):
-para a de 0 até o tamanho da lista -1:
-se lista(a)=elemento
-retornar a 
-retornar -1
+leia x 
+leia lista
+para cada elemento da lista, faça:
+    se elemento for igual a x, então:
+      escreva x
+      fim
+ escreva "não encontrei"
