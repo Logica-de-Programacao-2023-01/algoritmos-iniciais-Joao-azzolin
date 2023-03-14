@@ -1,10 +1,5 @@
 Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número
-função fatorial(n)
-se n<0:
-fatorial é inexistente
-enquanto
-se n=0 ou n=1
-escreva fatorial=1
-para n>1
-escreva
-fatorial = todos os números a tal que a≥1 e a<n que 1 * n
+leia x
+var resultado = 1 
+para cada número entre 1 e x, faça:
+resultado = resultado * número_atual
