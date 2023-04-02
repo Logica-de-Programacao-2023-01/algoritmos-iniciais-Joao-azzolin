@@ -1,0 +1,5 @@
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+leia x
+se x for divisível apenas por 1 e por ele mesmo, então:
+x é primo
+senão x não é primo
