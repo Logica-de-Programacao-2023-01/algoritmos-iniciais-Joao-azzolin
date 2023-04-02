@@ -1,6 +1,0 @@
-Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média ponderada de uma lista de números com base nos pesos fornecidos.
-faça
-soma dos produtos=0
-soma dos pesos=0
-escreva média ponderada
-soma dos produtos/soma dos pesos
