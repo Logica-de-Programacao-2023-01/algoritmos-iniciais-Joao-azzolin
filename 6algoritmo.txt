@@ -2,3 +2,4 @@ Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um n
 leia x para base da potenciação (número a ser multiplicado)
 leia m para expoente da potenciação (quantidade de vezes que x será multiplicado)  
 resultado_cálculo_potência = x^m
+escreva resultado_cálculo_potência
